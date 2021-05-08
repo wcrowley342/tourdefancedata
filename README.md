@@ -1,3 +1,3 @@
 # tourdefancedata
 
-playing around with tour de france winner data set 
+Put together a simple analysis and some graphs with a Tour de France rider data set (found via www.data-is-plural.com/) 
